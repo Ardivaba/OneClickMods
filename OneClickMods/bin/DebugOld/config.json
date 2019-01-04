@@ -1,0 +1,12 @@
+{
+  "HookedAssemblies": [
+    "Assembly-CSharp.dll"
+  ],
+  "Injections": [
+    {
+      "Type": 0,
+      "Position": 1,
+      "MethodPath": "CheatMgr.OnGUI"
+    }
+  ]
+}

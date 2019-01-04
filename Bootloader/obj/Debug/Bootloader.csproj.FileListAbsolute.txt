@@ -1,0 +1,16 @@
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\Bootloader.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\Bootloader.pdb
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\obj\Debug\Bootloader.csprojResolveAssemblyReference.cache
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\obj\Debug\Bootloader.csproj.CoreCompileInputs.cache
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\obj\Debug\Bootloader.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\obj\Debug\Bootloader.pdb
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\KeraLua.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\NLua.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\UnityEngine.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\PlayMaker.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\telemetry-sdk-cs.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ardi\source\repos\OneClickMods\Bootloader\bin\Debug\telemetry-sdk-cs-http-unity.dll
